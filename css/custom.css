@@ -60,5 +60,28 @@
 }
 
 /* 隐藏评论的gif按钮 */
+.wl-actions .wl-action:nth-child(3) {
+  display: none;
+}
 
 /* 滑稽鼠标样式 */
+body {
+  cursor: url(../img/mouse.cur), auto;
+}
+.banner {
+  cursor: inherit;
+}
+a:hover {
+  cursor: url(../img/hover.cur), auto;
+}
+
+/*Webkit,Opera9.5+,Ie9+*/
+::selection {
+  background: #C891D1;
+  color: #333;
+}
+/*Mozilla Firefox*/
+::-moz-selection {
+  background: #C891D1;
+  color: #333;
+}
