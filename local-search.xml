@@ -4,6 +4,33 @@
   
   
   <entry>
+    <title>fluent terminal + oh-my-posh 美化</title>
+    <link href="/posts/9211d902.html"/>
+    <url>/posts/9211d902.html</url>
+    
+    <content type="html"><![CDATA[<p>终端美化</p><figure class="highlight js"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><code class="hljs js"><span class="hljs-keyword">function</span> <span class="hljs-title function_">hslColors</span>(<span class="hljs-params"></span>) &#123;<br>  <span class="hljs-keyword">let</span> colors = [],<br>  hue = <span class="hljs-title class_">Math</span>.<span class="hljs-title function_">floor</span>(<span class="hljs-title class_">Math</span>.<span class="hljs-title function_">random</span>() * (<span class="hljs-number">320</span> - <span class="hljs-number">153</span>) + <span class="hljs-number">153</span>),<br>  saturation = <span class="hljs-title class_">Math</span>.<span class="hljs-title function_">floor</span>(<span class="hljs-title class_">Math</span>.<span class="hljs-title function_">random</span>() * (<span class="hljs-number">100</span> - <span class="hljs-number">90</span>) + <span class="hljs-number">90</span>),<br>  lightness = <span class="hljs-title class_">Math</span>.<span class="hljs-title function_">floor</span>(<span class="hljs-title class_">Math</span>.<span class="hljs-title function_">random</span>() * (<span class="hljs-number">80</span> - <span class="hljs-number">70</span>) + <span class="hljs-number">70</span>);<br><br>  colors.<span class="hljs-title function_">push</span>(<span class="hljs-string">`hsl(<span class="hljs-subst">$&#123;hue&#125;</span>,<span class="hljs-subst">$&#123;saturation&#125;</span>%, <span class="hljs-subst">$&#123;lightness&#125;</span>%)`</span>);<br>  <span class="hljs-keyword">return</span> colors;<br>&#125;<br></code></pre></td></tr></table></figure>]]></content>
+    
+    
+    <categories>
+      
+      <category>前端</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>fluent terminal 美化</tag>
+      
+      <tag>终端美化</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>十年</title>
     <link href="/posts/bdfafec0.html"/>
     <url>/posts/bdfafec0.html</url>
