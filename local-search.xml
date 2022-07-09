@@ -4,6 +4,41 @@
   
   
   <entry>
+    <title>win10应用files体验win11文件管理器多标签</title>
+    <link href="/posts/6b8118c3.html"/>
+    <url>/posts/6b8118c3.html</url>
+    
+    <content type="html"><![CDATA[<p>前段时间win11发布秋季更新新版本的预告，文件管理器将支持多标签，但是<a href="https://blog.ganxb2.com/">小波</a>的surface pro5不能更新到win11，所以小波去win商店找了半天发现这款uwp应用 – <code>files</code>，完美实现了多标签，而且还增加了很多实用的小功能，主要还是免费，给作者点赞哦！</p><h2 id="😚-界面预览"><a href="#😚-界面预览" class="headerlink" title="😚 界面预览"></a>😚 界面预览</h2><p><img src="https://i0.hdslb.com/bfs/album/d8d17712f8098f068b05b6b929f30ceefb753718.jpg@1e_1c.webp" alt="廿壴(ganxb2)[小波分享圈子]"></p><p class="note note-success">同时支持win10和win11</p><h2 id="🧐-优点和缺点"><a href="#🧐-优点和缺点" class="headerlink" title="🧐 优点和缺点"></a>🧐 优点和缺点</h2><p>小波自己使用中发现的问题：</p><ul><li>作为开发的同学，以前要文件夹右键打开终端，files只需要在偏好里选择下，然后右键就能直接打开终端，特别是结合 <a href="https://blog.ganxb2.com/posts/9211d902.html"><strong>fluent-terminal</strong></a> 简直不要太完美</li><li>双击空白处返回上一级，单击磁盘即进入</li><li>搜素比原生好用</li><li>还有个实验功能抄的mac的文件夹标记颜色</li></ul><p>当然缺点也有，毕竟没人写的程序没有bug~~😳</p><p>– 右键新建文件夹，弹框被遮挡，可以选择点击地址栏下面的 <strong>操作区 –&gt; 新建</strong> 来操作</p><p>小波用了段时间，整体体验挺好，推荐给小伙伴们~~~ 好用的话不妨给个点赞哦！</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>前端</category>
+      
+      <category>软件应用</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>前端</tag>
+      
+      <tag>files</tag>
+      
+      <tag>win推荐应用</tag>
+      
+      <tag>win11文件管理器多标签</tag>
+      
+      <tag>win10体验win11文件管理多标签</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>谷歌站长平台无法登录，谷歌注册帐号时手机号报错“此电话号码无法用于进行验证”</title>
     <link href="/posts/3c4352a1.html"/>
     <url>/posts/3c4352a1.html</url>
@@ -93,12 +128,16 @@
       
       <category>前端</category>
       
+      <category>软件应用</category>
+      
     </categories>
     
     
     <tags>
       
       <tag>前端</tag>
+      
+      <tag>win推荐应用</tag>
       
       <tag>fluent terminal</tag>
       
