@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.ganxb2.com/css/custom.css</loc>
+    
+    <lastmod>2022-07-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.ganxb2.com/posts/eb0c0c42.html</loc>
     
     <lastmod>2022-07-14</lastmod>
@@ -120,15 +129,6 @@
   
   <url>
     <loc>https://blog.ganxb2.com/posts/bdfafec0.html</loc>
-    
-    <lastmod>2022-07-14</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.ganxb2.com/css/custom.css</loc>
     
     <lastmod>2022-07-14</lastmod>
     
@@ -325,76 +325,6 @@
   </url>
   
   <url>
-    <loc>https://blog.ganxb2.com/tags/%E7%94%B5%E5%BD%B1/</loc>
-    <lastmod>2022-07-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.ganxb2.com/tags/%E7%94%B5%E5%BD%B1%E7%99%BD%E6%97%A5%E6%A2%A6%E6%83%B3%E5%AE%B6%E8%A7%82%E5%BD%B1%E7%AC%94%E8%AE%B0/</loc>
-    <lastmod>2022-07-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.ganxb2.com/tags/%E7%94%B5%E5%BD%B1%E8%A7%82%E5%BD%B1%E7%AC%94%E8%AE%B0/</loc>
-    <lastmod>2022-07-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.ganxb2.com/tags/%E7%94%B5%E5%BD%B1%E7%99%BD%E6%97%A5%E6%A2%A6%E6%83%B3%E5%AE%B6%E6%96%87%E5%AD%97%E7%89%88/</loc>
-    <lastmod>2022-07-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.ganxb2.com/tags/%E7%94%B5%E5%BD%B1%E7%99%BD%E6%97%A5%E6%A2%A6%E6%83%B3%E5%AE%B6%E5%8F%B0%E8%AF%8D/</loc>
-    <lastmod>2022-07-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.ganxb2.com/tags/files/</loc>
-    <lastmod>2022-07-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.ganxb2.com/tags/windows%E8%BD%AF%E4%BB%B6%E5%BA%94%E7%94%A8/</loc>
-    <lastmod>2022-07-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.ganxb2.com/tags/win11%E6%8E%A8%E8%8D%90%E5%BA%94%E7%94%A8/</loc>
-    <lastmod>2022-07-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.ganxb2.com/tags/win11%E6%96%87%E4%BB%B6%E7%AE%A1%E7%90%86%E5%99%A8%E5%A4%9A%E6%A0%87%E7%AD%BE/</loc>
-    <lastmod>2022-07-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.ganxb2.com/tags/win11%E6%8F%90%E5%89%8D%E4%BD%93%E9%AA%8Cwin11%E6%96%87%E4%BB%B6%E7%AE%A1%E7%90%86%E5%A4%9A%E6%A0%87%E7%AD%BE/</loc>
-    <lastmod>2022-07-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.ganxb2.com/tags/fluent-terminal/</loc>
     <lastmod>2022-07-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -403,6 +333,13 @@
   
   <url>
     <loc>https://blog.ganxb2.com/tags/oh-my-posh/</loc>
+    <lastmod>2022-07-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.ganxb2.com/tags/win11%E6%8E%A8%E8%8D%90%E5%BA%94%E7%94%A8/</loc>
     <lastmod>2022-07-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -438,6 +375,76 @@
   
   <url>
     <loc>https://blog.ganxb2.com/tags/%E5%89%8D%E7%AB%AF%E5%A6%82%E4%BD%95%E7%8E%A9%E8%BD%AC%E7%BB%88%E7%AB%AF/</loc>
+    <lastmod>2022-07-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.ganxb2.com/tags/%E7%94%B5%E5%BD%B1/</loc>
+    <lastmod>2022-07-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.ganxb2.com/tags/%E7%94%B5%E5%BD%B1%E7%99%BD%E6%97%A5%E6%A2%A6%E6%83%B3%E5%AE%B6%E8%A7%82%E5%BD%B1%E7%AC%94%E8%AE%B0/</loc>
+    <lastmod>2022-07-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.ganxb2.com/tags/%E7%94%B5%E5%BD%B1%E8%A7%82%E5%BD%B1%E7%AC%94%E8%AE%B0/</loc>
+    <lastmod>2022-07-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.ganxb2.com/tags/%E7%94%B5%E5%BD%B1%E7%99%BD%E6%97%A5%E6%A2%A6%E6%83%B3%E5%AE%B6%E6%96%87%E5%AD%97%E7%89%88/</loc>
+    <lastmod>2022-07-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.ganxb2.com/tags/%E7%94%B5%E5%BD%B1%E7%99%BD%E6%97%A5%E6%A2%A6%E6%83%B3%E5%AE%B6%E5%8F%B0%E8%AF%8D/</loc>
+    <lastmod>2022-07-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.ganxb2.com/tags/seo/</loc>
+    <lastmod>2022-07-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.ganxb2.com/tags/google-search-console/</loc>
+    <lastmod>2022-07-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.ganxb2.com/tags/%E8%B0%B7%E6%AD%8C%E7%AB%99%E9%95%BF%E5%B9%B3%E5%8F%B0/</loc>
+    <lastmod>2022-07-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.ganxb2.com/tags/%E8%B0%B7%E6%AD%8C%E6%B3%A8%E5%86%8C%E5%B8%90%E5%8F%B7%E6%89%8B%E6%9C%BA%E5%8F%B7%E6%97%A0%E6%B3%95%E9%AA%8C%E8%AF%81/</loc>
+    <lastmod>2022-07-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.ganxb2.com/tags/%E6%AD%A4%E7%94%B5%E8%AF%9D%E5%8F%B7%E7%A0%81%E6%97%A0%E6%B3%95%E7%94%A8%E4%BA%8E%E8%BF%9B%E8%A1%8C%E9%AA%8C%E8%AF%81/</loc>
     <lastmod>2022-07-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -480,41 +487,6 @@
   
   <url>
     <loc>https://blog.ganxb2.com/tags/%E4%BF%AE%E6%94%B9hosts%E5%85%8D%E8%B4%B9%E8%AE%BF%E9%97%AEbehance/</loc>
-    <lastmod>2022-07-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.ganxb2.com/tags/seo/</loc>
-    <lastmod>2022-07-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.ganxb2.com/tags/google-search-console/</loc>
-    <lastmod>2022-07-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.ganxb2.com/tags/%E8%B0%B7%E6%AD%8C%E7%AB%99%E9%95%BF%E5%B9%B3%E5%8F%B0/</loc>
-    <lastmod>2022-07-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.ganxb2.com/tags/%E8%B0%B7%E6%AD%8C%E6%B3%A8%E5%86%8C%E5%B8%90%E5%8F%B7%E6%89%8B%E6%9C%BA%E5%8F%B7%E6%97%A0%E6%B3%95%E9%AA%8C%E8%AF%81/</loc>
-    <lastmod>2022-07-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.ganxb2.com/tags/%E6%AD%A4%E7%94%B5%E8%AF%9D%E5%8F%B7%E7%A0%81%E6%97%A0%E6%B3%95%E7%94%A8%E4%BA%8E%E8%BF%9B%E8%A1%8C%E9%AA%8C%E8%AF%81/</loc>
     <lastmod>2022-07-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -696,6 +668,27 @@
   </url>
   
   <url>
+    <loc>https://blog.ganxb2.com/tags/windows/</loc>
+    <lastmod>2022-07-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.ganxb2.com/tags/WINDOWS%E7%B3%BB%E7%BB%9F%E6%A1%8C%E9%9D%A2%E6%97%A0%E6%B3%95%E6%89%93%E5%BC%80/</loc>
+    <lastmod>2022-07-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.ganxb2.com/tags/WINDOWS%E7%B3%BB%E7%BB%9F%E6%A1%8C%E9%9D%A2%E6%A1%8C%E9%9D%A2%E9%80%89%E9%A1%B9%E6%89%93%E4%B8%8D%E5%BC%80/</loc>
+    <lastmod>2022-07-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.ganxb2.com/tags/%E6%96%B0%E7%A1%AC%E4%BB%B6/</loc>
     <lastmod>2022-07-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -711,13 +704,6 @@
   
   <url>
     <loc>https://blog.ganxb2.com/tags/usb%E9%BC%A0%E6%A0%87/</loc>
-    <lastmod>2022-07-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.ganxb2.com/tags/windows/</loc>
     <lastmod>2022-07-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -753,20 +739,6 @@
   
   <url>
     <loc>https://blog.ganxb2.com/tags/%E5%89%8D%E7%AB%AF%E5%A6%82%E4%BD%95%E7%8E%A9%E8%BD%ACwordpress/</loc>
-    <lastmod>2022-07-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.ganxb2.com/tags/WINDOWS%E7%B3%BB%E7%BB%9F%E6%A1%8C%E9%9D%A2%E6%97%A0%E6%B3%95%E6%89%93%E5%BC%80/</loc>
-    <lastmod>2022-07-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.ganxb2.com/tags/WINDOWS%E7%B3%BB%E7%BB%9F%E6%A1%8C%E9%9D%A2%E6%A1%8C%E9%9D%A2%E9%80%89%E9%A1%B9%E6%89%93%E4%B8%8D%E5%BC%80/</loc>
     <lastmod>2022-07-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -836,34 +808,6 @@
   </url>
   
   <url>
-    <loc>https://blog.ganxb2.com/tags/%E4%B9%A0%E6%83%AF/</loc>
-    <lastmod>2022-07-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.ganxb2.com/tags/%E4%BA%BA%E7%94%9F/</loc>
-    <lastmod>2022-07-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.ganxb2.com/tags/%E5%8A%B1%E5%BF%97%E6%84%9F%E6%82%9F/</loc>
-    <lastmod>2022-07-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.ganxb2.com/tags/%E5%B0%8F%E6%B3%A2%E7%9A%84%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/</loc>
-    <lastmod>2022-07-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.ganxb2.com/tags/hexo/</loc>
     <lastmod>2022-07-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -919,6 +863,62 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>https://blog.ganxb2.com/tags/%E4%B9%A0%E6%83%AF/</loc>
+    <lastmod>2022-07-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.ganxb2.com/tags/%E4%BA%BA%E7%94%9F/</loc>
+    <lastmod>2022-07-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.ganxb2.com/tags/%E5%8A%B1%E5%BF%97%E6%84%9F%E6%82%9F/</loc>
+    <lastmod>2022-07-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.ganxb2.com/tags/%E5%B0%8F%E6%B3%A2%E7%9A%84%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/</loc>
+    <lastmod>2022-07-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.ganxb2.com/tags/files/</loc>
+    <lastmod>2022-07-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.ganxb2.com/tags/windows%E8%BD%AF%E4%BB%B6%E5%BA%94%E7%94%A8/</loc>
+    <lastmod>2022-07-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.ganxb2.com/tags/win11%E6%96%87%E4%BB%B6%E7%AE%A1%E7%90%86%E5%99%A8%E5%A4%9A%E6%A0%87%E7%AD%BE/</loc>
+    <lastmod>2022-07-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.ganxb2.com/tags/win11%E6%8F%90%E5%89%8D%E4%BD%93%E9%AA%8Cwin11%E6%96%87%E4%BB%B6%E7%AE%A1%E7%90%86%E5%A4%9A%E6%A0%87%E7%AD%BE/</loc>
+    <lastmod>2022-07-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
   
   <url>
@@ -943,14 +943,14 @@
   </url>
   
   <url>
-    <loc>https://blog.ganxb2.com/categories/%E8%BD%AF%E4%BB%B6%E5%BA%94%E7%94%A8/</loc>
+    <loc>https://blog.ganxb2.com/categories/SEO/</loc>
     <lastmod>2022-07-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://blog.ganxb2.com/categories/SEO/</loc>
+    <loc>https://blog.ganxb2.com/categories/%E7%94%9F%E6%B4%BB/</loc>
     <lastmod>2022-07-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -964,7 +964,7 @@
   </url>
   
   <url>
-    <loc>https://blog.ganxb2.com/categories/%E7%94%9F%E6%B4%BB/</loc>
+    <loc>https://blog.ganxb2.com/categories/%E8%BD%AF%E4%BB%B6%E5%BA%94%E7%94%A8/</loc>
     <lastmod>2022-07-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
