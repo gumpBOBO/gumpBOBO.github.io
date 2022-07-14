@@ -6,10 +6,8 @@ Disallow: /trackback
 Disallow: /comments
 Disallow: /comments/feed
 
-Disallow: /page/
-Disallow: /author/
-Disallow: /date/
-Disallow: /categories/
+
+
 Disallow: /tags/
 Disallow: /archives/
 
