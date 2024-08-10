@@ -1,0 +1,22 @@
+User-agent: *
+
+Disallow: /cgi-bin
+Disallow: /trackback
+Disallow: /comments
+Disallow: /comments/feed
+
+
+Disallow: /tags/
+Disallow: /archives/
+
+Disallow: /*.css$
+Disallow: /js/
+Disallow: /css/
+Disallow: /fonts/
+Disallow: /vendors/
+Disallow: /lib/
+Disallow: /xml/
+Disallow: /rss/
+
+Sitemap: https://blog.ganxb2.com/sitemap_baidu.xml
+Sitemap: https://blog.ganxb2.com/sitemap.xml
